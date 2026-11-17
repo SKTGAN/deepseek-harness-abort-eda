@@ -1,0 +1,9 @@
+{
+  "baseline": "loss_decoder",
+  "round": 2,
+  "candidate_id": "9fae09f57b95c03259e71450d86f242bd4ff63ba9646d529d0a519e7d1c478c9",
+  "matrix_sha256": "3f093879e3c327c1750c9bc747ebde78b51723951be2026926723e1906606034",
+  "program_sha256": "c7f62f39510af1dedcff7740f4237efc180dc6d97d4b83ac061fb12c35d84a32",
+  "training_groups": 9,
+  "training_score": 29.427746177483954
+}

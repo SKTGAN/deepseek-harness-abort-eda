@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.env.*
+*.key
+*.pem
+*.sqlite*
+*.log
+*.zip
+*.tar.gz
+*search.jsonl
+*ssh_known_hosts*
+contest-source/
+contest-data/
+contest-work/
