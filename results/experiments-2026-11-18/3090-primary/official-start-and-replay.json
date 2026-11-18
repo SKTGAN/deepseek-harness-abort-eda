@@ -1,0 +1,187 @@
+{
+  "official_initial": {
+    "source": "Official common-timing-reference.json, loss_decoder initial program, scored by contest2.scoring.score_metrics",
+    "reference_sha256": "d9972c87455e0fec20923962dc4a6ea81a124566119e7fae6dd11e79d739bd58",
+    "means": {
+      "train": 20.425060316261956,
+      "validation": -25.436219043792285
+    },
+    "cases": {
+      "ariane133-ng45": {
+        "split": "train",
+        "cells": {
+          "1001": {
+            "score": 50.73770172924047,
+            "raw_score": 50.73770172924047,
+            "wns_ns": -0.46473759489492794,
+            "tns_ns": -22.69812846368777
+          },
+          "1002": {
+            "score": -1.5077603893893712,
+            "raw_score": -1.5077603893893712,
+            "wns_ns": -0.511323442504157,
+            "tns_ns": -101.00025635050363
+          },
+          "1003": {
+            "score": 38.09076392242856,
+            "raw_score": 38.09076392242856,
+            "wns_ns": -0.5738236714876622,
+            "tns_ns": -29.767709140211068
+          }
+        },
+        "mean": 29.10690175409322
+      },
+      "bp-ng45": {
+        "split": "train",
+        "cells": {
+          "1001": {
+            "score": -20.823599877503156,
+            "raw_score": -20.823599877503156,
+            "wns_ns": -8.392474508445966,
+            "tns_ns": -9059.339646875793
+          },
+          "1002": {
+            "score": -29.972605953397096,
+            "raw_score": -29.972605953397096,
+            "wns_ns": -7.841612026113778,
+            "tns_ns": -10349.946316496395
+          },
+          "1003": {
+            "score": -14.454241483743441,
+            "raw_score": -14.454241483743441,
+            "wns_ns": -7.870566643414895,
+            "tns_ns": -8622.276498609612
+          }
+        },
+        "mean": -21.75014910488123
+      },
+      "bp_fe-asap7": {
+        "split": "validation",
+        "cells": {
+          "1001": {
+            "score": 26.640950918867425,
+            "raw_score": 26.640950918867425,
+            "wns_ns": -0.3774616281931819,
+            "tns_ns": -7.721294044907856
+          },
+          "1002": {
+            "score": -100,
+            "raw_score": -131.2082285836038,
+            "wns_ns": -0.7174002706057677,
+            "tns_ns": -32.47584337816895
+          },
+          "1003": {
+            "score": -18.211415125370458,
+            "raw_score": -18.211415125370458,
+            "wns_ns": -0.5076440522741864,
+            "tns_ns": -14.176231256798035
+          }
+        },
+        "mean": -30.523488068834343
+      },
+      "bp_fe-ng45": {
+        "split": "train",
+        "cells": {
+          "1001": {
+            "score": 56.00243029865659,
+            "raw_score": 56.00243029865659,
+            "wns_ns": -0.6611195111821111,
+            "tns_ns": -174.72074415142822
+          },
+          "1002": {
+            "score": 49.92933618986978,
+            "raw_score": 49.92933618986978,
+            "wns_ns": -0.7280568576313236,
+            "tns_ns": -211.7487329856929
+          },
+          "1003": {
+            "score": 55.82351841019526,
+            "raw_score": 55.82351841019526,
+            "wns_ns": -0.639466275808939,
+            "tns_ns": -188.35428327940795
+          }
+        },
+        "mean": 53.918428299573876
+      },
+      "swerv_wrapper-ng45": {
+        "split": "validation",
+        "cells": {
+          "1001": {
+            "score": 8.389609670749005,
+            "raw_score": 8.389609670749005,
+            "wns_ns": -1.984719778035325,
+            "tns_ns": -1966.4844886851063
+          },
+          "1002": {
+            "score": -61.787382409625245,
+            "raw_score": -61.787382409625245,
+            "wns_ns": -1.8654300854238925,
+            "tns_ns": -4344.438944004679
+          },
+          "1003": {
+            "score": -7.649077317374426,
+            "raw_score": -7.649077317374426,
+            "wns_ns": -1.7788500065336628,
+            "tns_ns": -2604.8945355820383
+          }
+        },
+        "mean": -20.348950018750223
+      }
+    }
+  },
+  "teammate": {
+    "candidate_id": "6a8e3ef053a9119bf4daadc0d3bf7f8b8b804d7f0d1e499986ab2f30f4f09edd",
+    "training_mean": 34.75499580780448,
+    "validation_mean": -4.34588999372448,
+    "validation_delta_vs_initial": 21.090329050067805
+  },
+  "decision_replay": {
+    "harness_commit": "27f29c9d7bc3dc13cd3b7b8196747bb415b71e06",
+    "receipt_archive_sha256": "a72db45901e03e20bb5555e9868fea20970f6d53e2d665b7d797f5101e8456d3",
+    "recorded_round_four": {
+      "request_id": "e-134b97c56b7377990b67e0082cefce5a28760e96c755d30f63bf6bb72b04",
+      "candidate_id": "28ff7be4a61e14eeced2663d68fb9a712d05028f7ddcbc840d1cf367485209fe",
+      "parent_id": "57ea753c16a7a4d103c6a77b209d69f8c2659cecc440bd5b76eb4e4ca2643916",
+      "search_intent": "diversify",
+      "decision_reason": "narrow_gain"
+    },
+    "replayed_first_three_trials": [
+      {
+        "request_id": "e-a79c198731e0300e9b5f3bcb6794eff410524ff71426df335b95ff5212cf",
+        "candidate_id": "ebbb7303ecab06df43dc1de37f8dcc733d4ae6837e1e12df2f7a4f6de5cabfe9",
+        "outcome": "effective",
+        "score": 5.4730994120239655,
+        "changed_vs_start": [
+          "loss"
+        ]
+      },
+      {
+        "request_id": "e-69980d1469099a4b2386cf6111deb41fa0e4644f0a7cecd78cc6eb32dec5",
+        "candidate_id": "203e2676d95aed3bcb076441c9947a07c3e70bbe0c0cad0a8e6f0d4ca51c7b1b",
+        "outcome": "effective",
+        "score": 23.419768482456654,
+        "changed_vs_start": [
+          "decoder"
+        ]
+      },
+      {
+        "request_id": "e-eabfedb9fa8df4c0ce2ea2963026ca34a0de2ccca58674046f65ba3dc2f1",
+        "candidate_id": "7b2b7f4fc3cf05ce63fb33e044e4551f7842955c5e6d25de18f63280f83a9b2d",
+        "outcome": "effective",
+        "score": 23.387910687561295,
+        "changed_vs_start": [
+          "loss"
+        ]
+      }
+    ],
+    "replayed_action": {
+      "reason": "combine_verified_gains",
+      "loss_candidate_id": "7b2b7f4fc3cf05ce63fb33e044e4551f7842955c5e6d25de18f63280f83a9b2d",
+      "decoder_candidate_id": "203e2676d95aed3bcb076441c9947a07c3e70bbe0c0cad0a8e6f0d4ca51c7b1b"
+    },
+    "loss_round": 3,
+    "decoder_round": 2,
+    "composed_program_interface_verified": true,
+    "replayed_candidate_physical_score": null
+  }
+}
