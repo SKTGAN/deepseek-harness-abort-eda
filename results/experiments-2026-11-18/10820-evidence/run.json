@@ -1,0 +1,81 @@
+{
+  "run": "10820-evidence",
+  "scope": "正式训练 · 九组",
+  "snapshot_utc_or_source": "2026-11-18T13:19:18.947396+00:00",
+  "harness_files": [
+    "agent.py",
+    "candidate_reply.py",
+    "paired_feedback.py",
+    "prompt.md"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-80bc93e58c8813456aeef8c0fe8d98831c4b75dd8b2cbafb132f8d1a39d5",
+      "candidate_id": "3b05394850e5951fa299e7736ff9904839b57b6e530b81722a89d29d60761329",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-17T14:44:31.261739+00:00",
+      "completed_at": "2026-11-17T16:34:17.464951+00:00",
+      "score": 4.551132504098089,
+      "expected_cells": 9,
+      "captured_cells": 9,
+      "parent_id": "5f349d8a64df348e8bd59f3918e3a89dbde4f459ef3e0cfbfe097f4a3f43acea",
+      "search_intent": "decoder_only",
+      "policy_action": "opening_control",
+      "candidate_sha256": "bb350bf0c9031f2cd6d0e06c30a4b4e8105720327a2906eb293e3392c93882e8"
+    },
+    {
+      "round": 2,
+      "request_id": "e-4cc3d17d4f0f5c98b69df5136f9e34e025a399830b1ff713a4a1492e4ee6",
+      "candidate_id": "7fb5beec1f62e2d35b7e6143215eaacb6c7d1ea0865a478ccf6a42e384deab37",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-17T16:36:57.159660+00:00",
+      "completed_at": "2026-11-17T18:28:57.380325+00:00",
+      "score": 14.11487288013456,
+      "expected_cells": 9,
+      "captured_cells": 9,
+      "parent_id": "5f349d8a64df348e8bd59f3918e3a89dbde4f459ef3e0cfbfe097f4a3f43acea",
+      "search_intent": "loss_only",
+      "policy_action": "complementary_opening_with_first_receipt",
+      "candidate_sha256": "6ff59dab9f3fd6d2644b97b0ce1ffc9e64454dfe9799d4a4a1071778eb502a60"
+    },
+    {
+      "round": 3,
+      "request_id": "e-6d742ccfcab5e92e227b37085729cde3fcac0bb845331171de7d423bb4db",
+      "candidate_id": "bd829199bc51a4e13005b84d9699f7851a81defca1674d458f910deae617800a",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-17T18:30:06.427992+00:00",
+      "completed_at": "2026-11-17T20:18:28.217492+00:00",
+      "score": 26.48940508129844,
+      "expected_cells": 9,
+      "captured_cells": 9,
+      "parent_id": "5f349d8a64df348e8bd59f3918e3a89dbde4f459ef3e0cfbfe097f4a3f43acea",
+      "search_intent": "diversify",
+      "policy_action": "published_start_still_ahead",
+      "candidate_sha256": "2619c77439ff230a1d1a4709fd0c3abfc8ef5af7d51def3c004324591d95f798"
+    },
+    {
+      "round": 4,
+      "request_id": "e-68fed91be2e62b29e86adb553029f1f94ef960abe293ff8bf8072cd55758",
+      "candidate_id": "4a5ff3c1c45b1cd1a5563ee17284b8e3a9d70b07bf9dbbc6d97a61e5e09301e5",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-17T20:19:06.292739+00:00",
+      "completed_at": "2026-11-17T22:10:15.722999+00:00",
+      "score": 25.007522028583587,
+      "expected_cells": 9,
+      "captured_cells": 9,
+      "parent_id": "bd829199bc51a4e13005b84d9699f7851a81defca1674d458f910deae617800a",
+      "search_intent": "repair",
+      "policy_action": "concentrated_regression",
+      "candidate_sha256": "6123a5a3a862e0ae7b1f071dba8521f5c8b94ed2bbb6d68f04f4834ae8bbde2c"
+    }
+  ],
+  "public_scores": [],
+  "recorded_model_requests": 11,
+  "recorded_model_responses": 11,
+  "events": 37
+}

@@ -1,0 +1,33 @@
+{
+  "run": "12420-harness-opening-20261116",
+  "scope": "早期训练快照",
+  "snapshot_utc_or_source": "2026-11-16 本地归档",
+  "harness_files": [
+    "agent.py",
+    "opening.txt",
+    "paired_feedback.py",
+    "prompt.md"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-8248319b97cb56c3d05d6a138eb065a0058eec6747976ff77cc1c380667f",
+      "candidate_id": "09d946c2070a6a342130d38c6e5799827ff03de49f08da2d2c667dd2acf150c2",
+      "ledger_status": "accepted",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-16T13:54:21.280291+00:00",
+      "completed_at": null,
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 3,
+      "parent_id": "2013e368928bc81a6c8481cf977e07f5b9d5d0eac52ef2bffa7f78ce6159dd13",
+      "search_intent": "loss_only",
+      "policy_action": "opening_control",
+      "candidate_sha256": "25b4a72c174113e09fb6b18f0b679de77a1085775f228c60b5dd9058ce496ebd"
+    }
+  ],
+  "public_scores": [],
+  "recorded_model_requests": 0,
+  "recorded_model_responses": 0,
+  "events": 2
+}

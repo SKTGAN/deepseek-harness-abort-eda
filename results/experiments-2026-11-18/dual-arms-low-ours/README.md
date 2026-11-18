@@ -1,0 +1,17 @@
+# dual-arms-low-ours
+
+双卡机早期尝试，部分只发生了模型调用。数据来源或快照时间为 2026-11-17 汇总包。
+
+现存汇总没有保留本次实际部署的 Harness 源码。
+
+[查看模型调用的计量记录](model-calls.json)
+
+缺少已记录的模型请求、回复正文。可从现存的候选和评估记录核对当时结果。
+
+| 轮次 | 已归档组数 | 完整成绩 | 生成代码 | 提交时记录的决策 |
+|---:|---:|---:|---|---|
+| [1](round-01/round.json) | 0/9 | — | [候选程序](round-01/candidate.py) | 未记录 |
+| [2](round-02/round.json) | 0/9 | — | [候选程序](round-02/candidate.py) | 未记录 |
+| [3](round-03/round.json) | 0/9 | — | [候选程序](round-03/candidate.py) | 未记录 |
+| [4](round-04/round.json) | 0/9 | — | [候选程序](round-04/candidate.py) | 未记录 |
+| [5](round-05/round.json) | 0/9 | — | [候选程序](round-05/candidate.py) | 未记录 |

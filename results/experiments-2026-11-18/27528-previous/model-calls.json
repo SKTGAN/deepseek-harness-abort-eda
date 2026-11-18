@@ -1,0 +1,114 @@
+[
+  {
+    "request_id": "41db385d512e40c1abbf6665a35ce5a1",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4571,
+    "output_tokens": 8767,
+    "cost_rmb": "0.0717516"
+  },
+  {
+    "request_id": "c6b194f02b1e43a8ada1375528dadf14",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4642,
+    "output_tokens": 3463,
+    "cost_rmb": "0.02996336"
+  },
+  {
+    "request_id": "2f247663e0364382b6fecee86cf7af4e",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4652,
+    "output_tokens": 4300,
+    "cost_rmb": "0.0349232"
+  },
+  {
+    "request_id": "2ad954c5f67b46a28cc8c7726ab1eaeb",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4623,
+    "output_tokens": 3696,
+    "cost_rmb": "0.03178936"
+  },
+  {
+    "request_id": "397525f9e255462584f6f272263a2d73",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 9490,
+    "output_tokens": 5439,
+    "cost_rmb": "0.05521648"
+  },
+  {
+    "request_id": "d364e9ae015445eab6dd2825c1e27368",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4193,
+    "output_tokens": 5000,
+    "cost_rmb": "0.04161224"
+  },
+  {
+    "request_id": "d898ef279377489e84aef53031bba086",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4875,
+    "output_tokens": 2003,
+    "cost_rmb": "0.01900024"
+  },
+  {
+    "request_id": "ef1207d949e943559ddc04e8860c50f2",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 14682,
+    "output_tokens": 5911,
+    "cost_rmb": "0.03468824"
+  },
+  {
+    "request_id": "be0fb57b9f3f422a88c5ba6535dcb7a7",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19724,
+    "output_tokens": 16384,
+    "cost_rmb": "0.08162224"
+  },
+  {
+    "request_id": "0dd86a834fad40219210b46a58b3012a",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19730,
+    "output_tokens": 16384,
+    "cost_rmb": "0.06607368"
+  },
+  {
+    "request_id": "37796a132c8647e790bbb568dcd42534",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19730,
+    "output_tokens": 13284,
+    "cost_rmb": "0.05367368"
+  },
+  {
+    "request_id": "9534551f210e49248aebe9b34c6a4c44",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19583,
+    "output_tokens": 16384,
+    "cost_rmb": "0.08148124"
+  },
+  {
+    "request_id": "f467752ba40c469b886ae0524d4f5ece",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19589,
+    "output_tokens": 8924,
+    "cost_rmb": "0.03634356"
+  },
+  {
+    "request_id": "6259ac56f1714f2d8969237244f2c27c",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 19591,
+    "output_tokens": 5281,
+    "cost_rmb": "0.02164812"
+  }
+]

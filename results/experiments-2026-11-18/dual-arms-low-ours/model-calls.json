@@ -1,0 +1,68 @@
+[
+  {
+    "status": "settled",
+    "input_tokens": 4571,
+    "output_tokens": 9086,
+    "cost_rmb": "0.08183"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4533,
+    "output_tokens": 4493,
+    "cost_rmb": "0.04501"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4543,
+    "output_tokens": 4376,
+    "cost_rmb": "0.03556408"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4514,
+    "output_tokens": 5883,
+    "cost_rmb": "0.056092"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 7215,
+    "output_tokens": 2960,
+    "cost_rmb": "0.03083448"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4086,
+    "output_tokens": 5413,
+    "cost_rmb": "0.051476"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 5185,
+    "output_tokens": 2769,
+    "cost_rmb": "0.032522"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 9528,
+    "output_tokens": 7843,
+    "cost_rmb": "0.07452448"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 9537,
+    "output_tokens": 8333,
+    "cost_rmb": "0.06742376"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 8351,
+    "output_tokens": 1847,
+    "cost_rmb": "0.02420248"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 8310,
+    "output_tokens": 5986,
+    "cost_rmb": "0.05723248"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "run": "12420-harness-feedback-20261116",
+  "scope": "早期训练快照",
+  "snapshot_utc_or_source": "2026-11-16 本地归档",
+  "harness_files": [
+    "agent.py",
+    "paired_feedback.py",
+    "prompt.md"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-8f755cb82d909b7594a5a7c4d78ef7853e8fdd6ee9b7fb06b3b8dbe5cd62",
+      "candidate_id": "70920d3aee0fe793761f19a2bf48281a22de6b8ccaa08f4f79348ce6d17b8d64",
+      "ledger_status": "accepted",
+      "ledger_reason": null,
+      "accepted_at": "2026-11-16T12:47:00.177301+00:00",
+      "completed_at": null,
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 6,
+      "parent_id": "dd98b7df2ab987e3952da2e119d229643e656f7b502abf09b1252819b572662c",
+      "search_intent": "loss_only",
+      "policy_action": null,
+      "candidate_sha256": "8f755cb82d909b7594a5a7c4d78ef7853e8fdd6ee9b7fb06b3b8dbe5cd620b7d"
+    }
+  ],
+  "public_scores": [],
+  "recorded_model_requests": 0,
+  "recorded_model_responses": 0,
+  "events": 1
+}

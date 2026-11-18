@@ -1,0 +1,38 @@
+[
+  {
+    "status": "settled",
+    "input_tokens": 4490,
+    "output_tokens": 16384,
+    "cost_rmb": "0.13904848"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4360,
+    "output_tokens": 10354,
+    "cost_rmb": "0.08452736"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4362,
+    "output_tokens": 16384,
+    "cost_rmb": "0.13176784"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4360,
+    "output_tokens": 11859,
+    "cost_rmb": "0.09531296"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4362,
+    "output_tokens": 12620,
+    "cost_rmb": "0.10140496"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4362,
+    "output_tokens": 16384,
+    "cost_rmb": "0.13151696"
+  }
+]

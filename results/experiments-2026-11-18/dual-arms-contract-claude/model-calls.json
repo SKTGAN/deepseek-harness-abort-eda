@@ -1,0 +1,14 @@
+[
+  {
+    "status": "settled",
+    "input_tokens": 5058,
+    "output_tokens": 16384,
+    "cost_rmb": "0.14093712"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4959,
+    "output_tokens": 16384,
+    "cost_rmb": "0.13271096"
+  }
+]

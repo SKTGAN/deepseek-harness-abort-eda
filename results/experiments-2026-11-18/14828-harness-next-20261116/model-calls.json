@@ -1,0 +1,22 @@
+[
+  {
+    "request_id": "617a2e4e2a054a8f9f3e391a4218cf09",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "reserved_at": "2026-11-16T13:08:06.043588+00:00",
+    "input_tokens": 4270,
+    "output_tokens": 15303,
+    "cost_rmb": "0.065482",
+    "recorded_at": "2026-11-16T13:09:35.378607+00:00"
+  },
+  {
+    "request_id": "533ad15046794acb902eaf0f71882c12",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "reserved_at": "2026-11-16T13:09:35.415246+00:00",
+    "input_tokens": 4167,
+    "output_tokens": 11044,
+    "cost_rmb": "0.04495612",
+    "recorded_at": "2026-11-16T13:10:38.891205+00:00"
+  }
+]

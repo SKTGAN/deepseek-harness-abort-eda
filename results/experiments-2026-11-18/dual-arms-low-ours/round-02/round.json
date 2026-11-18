@@ -1,0 +1,22 @@
+{
+  "round": 2,
+  "request_id": "e-58ef977e996e18423828e6d19cd5edf595668f76fe57d383988330210491",
+  "candidate_id": "1b9ff6333e127beafb870e7594794acbf6c4f63252d5d605ea4fc56ea397b73e",
+  "ledger_status": "failed",
+  "ledger_reason": "Incomplete native matrix",
+  "accepted_at": "2026-11-17T03:27:53.931402+00:00",
+  "completed_at": "2026-11-17T03:30:11.804400+00:00",
+  "score": null,
+  "expected_cells": 9,
+  "captured_cells": 0,
+  "parent_id": null,
+  "search_intent": null,
+  "policy_action": null,
+  "candidate_sha256": "b2a713d674b87fcac98b5c3e6317246a7e9e91fa7fe08b41d5a448b64d4dd139",
+  "event_sequences": [],
+  "submission_decision": {},
+  "cells": [],
+  "host_reported_cell_status_counts": {
+    "Insufficient available memory": 9
+  }
+}

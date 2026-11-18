@@ -1,0 +1,22 @@
+{
+  "round": 1,
+  "request_id": "e-4ea841fa66d4b9330876db03f7c3e26756576a5593ee217200c3d890e1a6",
+  "candidate_id": "3f532a9ab98e6c77d4153163129e932db2eb3cfd94d10b3f5b5de9abd1de116a",
+  "ledger_status": "failed",
+  "ledger_reason": "Incomplete native matrix",
+  "accepted_at": "2026-11-17T03:26:18.551871+00:00",
+  "completed_at": "2026-11-17T03:26:31.367572+00:00",
+  "score": null,
+  "expected_cells": 9,
+  "captured_cells": 0,
+  "parent_id": null,
+  "search_intent": null,
+  "policy_action": null,
+  "candidate_sha256": "e68fdd02cdd26b4f0135cbbb482f2d4888a470a6cb9b61f9c9ae9a0f68b1ae8a",
+  "event_sequences": [],
+  "submission_decision": {},
+  "cells": [],
+  "host_reported_cell_status_counts": {
+    "Permission denied": 9
+  }
+}

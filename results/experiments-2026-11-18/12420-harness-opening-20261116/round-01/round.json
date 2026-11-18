@@ -1,0 +1,82 @@
+{
+  "round": 1,
+  "request_id": "e-8248319b97cb56c3d05d6a138eb065a0058eec6747976ff77cc1c380667f",
+  "candidate_id": "09d946c2070a6a342130d38c6e5799827ff03de49f08da2d2c667dd2acf150c2",
+  "ledger_status": "accepted",
+  "ledger_reason": null,
+  "accepted_at": "2026-11-16T13:54:21.280291+00:00",
+  "completed_at": null,
+  "score": null,
+  "expected_cells": 9,
+  "captured_cells": 3,
+  "parent_id": "2013e368928bc81a6c8481cf977e07f5b9d5d0eac52ef2bffa7f78ce6159dd13",
+  "search_intent": "loss_only",
+  "policy_action": "opening_control",
+  "candidate_sha256": "25b4a72c174113e09fb6b18f0b679de77a1085775f228c60b5dd9058ce496ebd",
+  "event_sequences": [
+    1,
+    2
+  ],
+  "submission_decision": {
+    "event": "submitted",
+    "request_id": "e-8248319b97cb56c3d05d6a138eb065a0058eec6747976ff77cc1c380667f",
+    "decision": {
+      "reason": "opening_control"
+    },
+    "parent_id": "2013e368928bc81a6c8481cf977e07f5b9d5d0eac52ef2bffa7f78ce6159dd13",
+    "search_intent": "loss_only",
+    "changed_components": {
+      "loss": "Parent optimized only random-walk positive/negative pairs. Change relative to parent: add a normalized timing-weighted graph-star attraction term over the supplied represented-net edges. Since graph_s"
+    }
+  },
+  "cells": [
+    {
+      "case": "bp_fe-ng45",
+      "seed": "1001",
+      "status": "succeeded",
+      "corrected_score": 51.147207546468195,
+      "official_initial_score": 56.00243029865659,
+      "delta_vs_official_initial": -4.855222752188396,
+      "wns_ns": -0.6496192656562823,
+      "tns_ns": -238.83962505991042,
+      "cut_net_count": 3432,
+      "timing_weighted_cut": 5918.395510121568,
+      "partition_assignment_changed_count": 6,
+      "partition_assignment_sha256": "01410e88a045067acdd4861a8b2eb2371cf4d744718b7ca7935d3b7cfc95c695",
+      "reported_minutes": 8.68003675,
+      "score": 51.147207546468195
+    },
+    {
+      "case": "bp_fe-ng45",
+      "seed": "1002",
+      "status": "succeeded",
+      "corrected_score": 41.092586144774984,
+      "official_initial_score": 49.92933618986978,
+      "delta_vs_official_initial": -8.836750045094796,
+      "wns_ns": -0.7950578198616463,
+      "tns_ns": -281.76490560495,
+      "cut_net_count": 3739,
+      "timing_weighted_cut": 6153.577450334404,
+      "partition_assignment_changed_count": 1,
+      "partition_assignment_sha256": "56709aa6a0e5f695be4a6d19f79452aad2b313a877e629ce6facc60c19eb1106",
+      "reported_minutes": 12.465328916666666,
+      "score": 41.092586144774984
+    },
+    {
+      "case": "bp_fe-ng45",
+      "seed": "1003",
+      "status": "succeeded",
+      "corrected_score": 55.82351841019526,
+      "official_initial_score": 55.82351841019526,
+      "delta_vs_official_initial": 0.0,
+      "wns_ns": -0.639466275808939,
+      "tns_ns": -188.35428327940795,
+      "cut_net_count": 3102,
+      "timing_weighted_cut": 5576.034057190449,
+      "partition_assignment_changed_count": 0,
+      "partition_assignment_sha256": "c3c1744a4bfb3d9934c3203de982a99f069005b16013f065d4636cbeb9b6760a",
+      "reported_minutes": 17.6721596,
+      "score": 55.82351841019526
+    }
+  ]
+}

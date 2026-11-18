@@ -1,0 +1,65 @@
+{
+  "run": "27528-claude-diagnostic",
+  "scope": "三组开发小测",
+  "snapshot_utc_or_source": "2026-11-18 本地归档",
+  "harness_files": [
+    "agent.py",
+    "candidate_reply.py",
+    "paired_feedback.py",
+    "prompt.md"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-b5a70ef0a2405825b11f6a74477346c570f4e97a7d48f54ec21222dd5407",
+      "candidate_id": "d97c711283bf2b82b08548fa697e6410ded9cae57d7d0964ca7964753520bae5",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": null,
+      "completed_at": null,
+      "score": 1.77798120617778,
+      "expected_cells": 3,
+      "captured_cells": 3,
+      "parent_id": "published-official-initial",
+      "search_intent": "loss_only",
+      "policy_action": "opening_control",
+      "candidate_sha256": "89701320c14248851e413281b1f4aa89e5e1d9d6b86ea8ddecabe037ff0988d1"
+    },
+    {
+      "round": 2,
+      "request_id": "e-4b9c9c19f0a17b453fcc50eac82298d38e1aaf4aebe2c2afb730da8c2647",
+      "candidate_id": "f55632ef21ea1dec668e7e82b2e97780bd7a071b9bbc50cbfca4541975c778bb",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": null,
+      "completed_at": null,
+      "score": -3.8944234656967915,
+      "expected_cells": 3,
+      "captured_cells": 3,
+      "parent_id": "published-official-initial",
+      "search_intent": "decoder_only",
+      "policy_action": "test_alternative_component_after_opening",
+      "candidate_sha256": "6ab5bf87c7417f4254e5eeeb50e02e45f707d560351d434e7bd97b148b007621"
+    },
+    {
+      "round": 3,
+      "request_id": "e-fc51dd5ec5633f43338a55493a82f2e8a6e6873a3e8d0298867a5bc9131c",
+      "candidate_id": "d7b933becb4e6777b4b00b962971667e16fac2538045c366ae39793a926cadd2",
+      "ledger_status": "succeeded",
+      "ledger_reason": null,
+      "accepted_at": null,
+      "completed_at": null,
+      "score": 30.983636118432415,
+      "expected_cells": 3,
+      "captured_cells": 3,
+      "parent_id": "published-official-initial",
+      "search_intent": "loss_only",
+      "policy_action": "orientation_only",
+      "candidate_sha256": "03a62e3a7790d64dc81e729c839dbaf9eeeeedba4950836313e38b22787a8777"
+    }
+  ],
+  "public_scores": [],
+  "recorded_model_requests": 6,
+  "recorded_model_responses": 6,
+  "events": 22
+}

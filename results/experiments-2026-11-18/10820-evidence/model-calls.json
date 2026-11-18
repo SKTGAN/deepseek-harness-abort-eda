@@ -1,0 +1,90 @@
+[
+  {
+    "request_id": "458635875a7f403baea8e6a656047e5b",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4686,
+    "output_tokens": 11312,
+    "cost_rmb": "0.049934"
+  },
+  {
+    "request_id": "3470e6851f474216bb44300bfb4f2d66",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4574,
+    "output_tokens": 7614,
+    "cost_rmb": "0.0312668"
+  },
+  {
+    "request_id": "59a33c35190f4daf9192205b32425727",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4574,
+    "output_tokens": 9582,
+    "cost_rmb": "0.03863704"
+  },
+  {
+    "request_id": "3f0aff22ddb1447fbe25a93e4abb2b2f",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4603,
+    "output_tokens": 6526,
+    "cost_rmb": "0.02644204"
+  },
+  {
+    "request_id": "06e83be6b8924ac6957d9fbecd20066c",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4456,
+    "output_tokens": 6111,
+    "cost_rmb": "0.0289"
+  },
+  {
+    "request_id": "0afb851bf0654c1195263647f349d77c",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 5239,
+    "output_tokens": 5010,
+    "cost_rmb": "0.02502812"
+  },
+  {
+    "request_id": "a5975093578e4fdcb4a894895d35d37e",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 12905,
+    "output_tokens": 2902,
+    "cost_rmb": "0.0207498"
+  },
+  {
+    "request_id": "13ecf9f0fd0a4923ab78ca1efc90c1b1",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4659,
+    "output_tokens": 5502,
+    "cost_rmb": "0.026667"
+  },
+  {
+    "request_id": "2d1e779a400f4584b5921e64bdf6a71b",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 5323,
+    "output_tokens": 13082,
+    "cost_rmb": "0.05740012"
+  },
+  {
+    "request_id": "393d304f66af4909b6a3a52cd1701f13",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 13375,
+    "output_tokens": 7162,
+    "cost_rmb": "0.0382598"
+  },
+  {
+    "request_id": "793cd942c62f4a9b9f071cdffb48f4ea",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 14142,
+    "output_tokens": 1759,
+    "cost_rmb": "0.0174148"
+  }
+]

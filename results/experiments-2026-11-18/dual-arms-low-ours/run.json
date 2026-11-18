@@ -1,0 +1,107 @@
+{
+  "run": "dual-arms-low-ours",
+  "scope": "双卡机早期尝试，部分只发生了模型调用",
+  "snapshot_utc_or_source": "2026-11-17 汇总包",
+  "harness_files": [],
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-4ea841fa66d4b9330876db03f7c3e26756576a5593ee217200c3d890e1a6",
+      "candidate_id": "3f532a9ab98e6c77d4153163129e932db2eb3cfd94d10b3f5b5de9abd1de116a",
+      "ledger_status": "failed",
+      "ledger_reason": "Incomplete native matrix",
+      "accepted_at": "2026-11-17T03:26:18.551871+00:00",
+      "completed_at": "2026-11-17T03:26:31.367572+00:00",
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 0,
+      "parent_id": null,
+      "search_intent": null,
+      "policy_action": null,
+      "candidate_sha256": "e68fdd02cdd26b4f0135cbbb482f2d4888a470a6cb9b61f9c9ae9a0f68b1ae8a",
+      "host_reported_cell_status_counts": {
+        "Permission denied": 9
+      }
+    },
+    {
+      "round": 2,
+      "request_id": "e-58ef977e996e18423828e6d19cd5edf595668f76fe57d383988330210491",
+      "candidate_id": "1b9ff6333e127beafb870e7594794acbf6c4f63252d5d605ea4fc56ea397b73e",
+      "ledger_status": "failed",
+      "ledger_reason": "Incomplete native matrix",
+      "accepted_at": "2026-11-17T03:27:53.931402+00:00",
+      "completed_at": "2026-11-17T03:30:11.804400+00:00",
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 0,
+      "parent_id": null,
+      "search_intent": null,
+      "policy_action": null,
+      "candidate_sha256": "b2a713d674b87fcac98b5c3e6317246a7e9e91fa7fe08b41d5a448b64d4dd139",
+      "host_reported_cell_status_counts": {
+        "Insufficient available memory": 9
+      }
+    },
+    {
+      "round": 3,
+      "request_id": "e-8e81ba41700f423138b19cc03ff08a042095056bcb70e34b90b37592ca4a",
+      "candidate_id": "6bc564c56f0461cbe67dc5f077f5ec9a9111e9e903131a19fbd2b4b77f9868a4",
+      "ledger_status": "failed",
+      "ledger_reason": "Incomplete native matrix",
+      "accepted_at": "2026-11-17T03:31:53.164439+00:00",
+      "completed_at": "2026-11-17T03:31:54.018330+00:00",
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 0,
+      "parent_id": null,
+      "search_intent": null,
+      "policy_action": null,
+      "candidate_sha256": "2109ff8ac1664448a7f604a1dc1f5dabde0fdddd9d50fe7187ba678d0907fb75",
+      "host_reported_cell_status_counts": {
+        "Insufficient available memory": 9
+      }
+    },
+    {
+      "round": 4,
+      "request_id": "e-e4b425ed1b0f94604b37693bd663b3457b5718331f24e5c3868207c12945",
+      "candidate_id": "c70ae3e4f0382868c7e0486a39992aee5be8ab796c42617c58df9df367284a9c",
+      "ledger_status": "failed",
+      "ledger_reason": "Incomplete native matrix",
+      "accepted_at": "2026-11-17T03:32:14.626147+00:00",
+      "completed_at": "2026-11-17T03:32:15.277047+00:00",
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 0,
+      "parent_id": null,
+      "search_intent": null,
+      "policy_action": null,
+      "candidate_sha256": "71b151227a5ffc103f8b1eba569a50b5d9d243a1be6d13ce6ff79f77161ff4e7",
+      "host_reported_cell_status_counts": {
+        "Insufficient available memory": 9
+      }
+    },
+    {
+      "round": 5,
+      "request_id": "e-df68ececea6d0a45c2aea078e7587adfa7ac25bab16e1705898f2fa3d1dc",
+      "candidate_id": "973837522f63d5dfc50ce6904fa5d5d24202fbd1588c63a1731b5d74049bac85",
+      "ledger_status": "failed",
+      "ledger_reason": "Incomplete native matrix",
+      "accepted_at": "2026-11-17T03:34:05.133745+00:00",
+      "completed_at": "2026-11-17T03:36:23.555750+00:00",
+      "score": null,
+      "expected_cells": 9,
+      "captured_cells": 0,
+      "parent_id": null,
+      "search_intent": null,
+      "policy_action": null,
+      "candidate_sha256": "ca2e7132e7b182b0459f733f562bcff8d45bd1d9c2536ca16c481634792a7f2e",
+      "host_reported_cell_status_counts": {
+        "Insufficient available memory": 9
+      }
+    }
+  ],
+  "public_scores": [],
+  "recorded_model_requests": 0,
+  "recorded_model_responses": 0,
+  "events": 0
+}

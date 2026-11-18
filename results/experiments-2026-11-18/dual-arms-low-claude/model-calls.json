@@ -1,0 +1,50 @@
+[
+  {
+    "status": "settled",
+    "input_tokens": 5058,
+    "output_tokens": 11499,
+    "cost_rmb": "0.102108"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4971,
+    "output_tokens": 7297,
+    "cost_rmb": "0.06003896"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4960,
+    "output_tokens": 11322,
+    "cost_rmb": "0.09121344"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4653,
+    "output_tokens": 4524,
+    "cost_rmb": "0.045498"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4667,
+    "output_tokens": 3365,
+    "cost_rmb": "0.036254"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 8033,
+    "output_tokens": 4647,
+    "cost_rmb": "0.04496296"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4032,
+    "output_tokens": 10740,
+    "cost_rmb": "0.093984"
+  },
+  {
+    "status": "settled",
+    "input_tokens": 4046,
+    "output_tokens": 5065,
+    "cost_rmb": "0.048612"
+  }
+]

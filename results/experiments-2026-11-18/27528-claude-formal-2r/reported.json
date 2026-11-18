@@ -1,0 +1,9 @@
+{
+  "source": "此前的进度汇报，未取得本轮原始回执",
+  "training_scores_reported": [
+    1.79,
+    -0.22
+  ],
+  "public_validation_first_cell_reported": -0.72,
+  "public_validation_cells_reported": 1
+}

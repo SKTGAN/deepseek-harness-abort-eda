@@ -1,0 +1,12 @@
+[
+  {
+    "request_id": "8de29b0a20ab4407818a8e9174929671",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "reserved_at": "2026-11-16T12:46:07.376098+00:00",
+    "input_tokens": 4078,
+    "output_tokens": 7794,
+    "cost_rmb": "0.03512856",
+    "recorded_at": "2026-11-16T12:47:00.072222+00:00"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "request_id": "27e4c400dfd04ebbb32ed13beb29688a",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4818,
+    "output_tokens": 8770,
+    "cost_rmb": "0.03964712"
+  },
+  {
+    "request_id": "95337d4e46f14f8797f0609697ad330e",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4461,
+    "output_tokens": 3986,
+    "cost_rmb": "0.01689268"
+  },
+  {
+    "request_id": "5f0b794a3d124806a6b38adbb24df8f3",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4471,
+    "output_tokens": 4878,
+    "cost_rmb": "0.01984348"
+  },
+  {
+    "request_id": "2e439c33b65a475e989bc65c20d26393",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4422,
+    "output_tokens": 3639,
+    "cost_rmb": "0.01546568"
+  },
+  {
+    "request_id": "10c9f1ce950446129bd6e015912d5984",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 13644,
+    "output_tokens": 5988,
+    "cost_rmb": "0.06741472"
+  },
+  {
+    "request_id": "c36036528f4c4fd581ef0c41ee4a6fda",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4701,
+    "output_tokens": 4527,
+    "cost_rmb": "0.04511624"
+  },
+  {
+    "request_id": "0036d870b7444710af3ab6098637cd77",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 5277,
+    "output_tokens": 4418,
+    "cost_rmb": "0.04539624"
+  },
+  {
+    "request_id": "d80ae6076b6b4fa58fd56c3e654ce4f5",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 14826,
+    "output_tokens": 16313,
+    "cost_rmb": "0.15237872"
+  },
+  {
+    "request_id": "51b7c90e9fe04317b915f9efdb27807c",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 18530,
+    "output_tokens": 3122,
+    "cost_rmb": "0.05425872"
+  },
+  {
+    "request_id": "c7574a8f3c914496b2a1d1b0d8446328",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 18752,
+    "output_tokens": 8960,
+    "cost_rmb": "0.05070336"
+  }
+]

@@ -1,0 +1,2 @@
+{"sequence": 1, "event": "invalid_proposal", "parent_id": "6d3edad4228db5bf7b5270eec591fe7c87caf1e788d37f2bb8846f55a0734201", "reason": "The model returned an incomplete response"}
+{"sequence": 2, "event": "submitted", "parent_id": "6d3edad4228db5bf7b5270eec591fe7c87caf1e788d37f2bb8846f55a0734201", "request_id": "e-1a9d402b3880cecd717e7414e23b525806dabec834acae7eee7e78c1237c", "search_intent": "decoder_only"}
