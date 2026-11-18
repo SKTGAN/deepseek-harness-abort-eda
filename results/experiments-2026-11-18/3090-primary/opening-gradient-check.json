@@ -1,0 +1,36 @@
+{
+  "case": "bp_fe-ng45",
+  "seed": 1001,
+  "device": "cpu",
+  "epoch": 0,
+  "optimizer_steps": 0,
+  "source_batch_size": 8192,
+  "sample_sha256": "40ae46b6f88eef6815906ec414fb951132017417de2b828562ad56373ee66024",
+  "encoder_sha256": "066d7ab4440028276e17a7a7dc33e360236dd49ed63b33895a348545e2186171",
+  "parent_gradient_norm": 0.0001269812652562017,
+  "proposals": {
+    "A": {
+      "norm_ratio": 2,
+      "delta_ratio": 1,
+      "cosine": 0.9999999999999898
+    },
+    "B": {
+      "norm_ratio": 4,
+      "delta_ratio": 3.000000000000019,
+      "cosine": 0.9999999999999898
+    }
+  },
+  "meaning": "One shared initial batch of CPU encoder gradients. norm_ratio = ||g||/||parent||, delta_ratio = ||g-parent||/||parent||, cosine = cos(g,parent). Physical timing is measured in the official evaluation.",
+  "wall_time_seconds": 13.52,
+  "model_calls": 0,
+  "runtime_versions": {
+    "python": "3.8.10",
+    "torch": "1.7.1+cu110",
+    "numpy": "1.24.4"
+  },
+  "test": "CPU-only synthetic positive scaling of the published initial loss",
+  "git_revision": "27f29c9d7bc3dc13cd3b7b8196747bb415b71e06",
+  "native_runtime_image": "sha256:5a7f24f78ddc96bf9f33df70b5d81c32938445d2d43bc73161f8877bbb6b1f82",
+  "host_cpu_quota": 2,
+  "host_memory_limit_gib": 4
+}
