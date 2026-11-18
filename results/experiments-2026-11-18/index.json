@@ -997,8 +997,8 @@
   },
   {
     "run": "27528-claude-formal-2r",
-    "scope": "双轮正式训练，仅汇报值",
-    "snapshot_utc_or_source": "本地部署包和历史进度汇报",
+    "scope": "双轮正式训练",
+    "snapshot_utc_or_source": "2026-11-18T13:31:57.715494+00:00",
     "harness_files": [
       "agent.py",
       "agent_impl.py",
@@ -1006,10 +1006,45 @@
       "paired_feedback.py",
       "prompt.md"
     ],
-    "rounds": [],
-    "public_scores": [],
-    "recorded_model_requests": 0,
-    "recorded_model_responses": 0,
-    "events": 0
+    "rounds": [
+      {
+        "round": 1,
+        "request_id": "e-57069b1d9accbb09134c54d3e573a18042a6ee26049832c4da7557020b9a",
+        "candidate_id": "cdf71ef54897fda5243997c5632b9d4d137e91781eeb710ab8aad5638d4b6fef",
+        "ledger_status": "succeeded",
+        "ledger_reason": null,
+        "accepted_at": "2026-11-18T01:32:25.041723+00:00",
+        "completed_at": "2026-11-18T03:34:04.821268+00:00",
+        "score": 1.788041277611665,
+        "expected_cells": 9,
+        "captured_cells": 9,
+        "parent_id": "4fe0feef55b74d9f50277f0654a69215cff43e30c68997f8728dac4b4052a1a8",
+        "search_intent": "loss_only",
+        "policy_action": "opening_control",
+        "candidate_sha256": "eef2193aa7db4f4ea0658d300864c832e57d4e735c8f339c2921b839cfc1856b"
+      },
+      {
+        "round": 2,
+        "request_id": "e-c914a0fc4d8fdc618e59967e459c46188fc059c0041e9c4c34229bb531e5",
+        "candidate_id": "c3faddaeecdf785bfb10a4228028b38a6e3674b9cab4e8125f6a9b090762b9fd",
+        "ledger_status": "succeeded",
+        "ledger_reason": null,
+        "accepted_at": "2026-11-18T03:36:27.657819+00:00",
+        "completed_at": "2026-11-18T05:40:19.888586+00:00",
+        "score": -0.22242497635877476,
+        "expected_cells": 9,
+        "captured_cells": 9,
+        "parent_id": "4fe0feef55b74d9f50277f0654a69215cff43e30c68997f8728dac4b4052a1a8",
+        "search_intent": "decoder_only",
+        "policy_action": "test_alternative_component_after_opening",
+        "candidate_sha256": "47759b7551e42c942aa7b4fc53651872c702e4dd80607f586949fb551acf63da"
+      }
+    ],
+    "public_scores": [
+      -16.558599147397135
+    ],
+    "recorded_model_requests": 5,
+    "recorded_model_responses": 5,
+    "events": 18
   }
 ]

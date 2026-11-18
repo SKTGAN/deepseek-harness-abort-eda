@@ -1,0 +1,42 @@
+[
+  {
+    "request_id": "369e774f89d640e8b52fba296bf2a7b8",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 3881,
+    "output_tokens": 943,
+    "cost_rmb": "0.009034"
+  },
+  {
+    "request_id": "cdfe80ba3a0843f8a8b8c9e66f65b270",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 4810,
+    "output_tokens": 2264,
+    "cost_rmb": "0.01995472"
+  },
+  {
+    "request_id": "490df54e903643a1a3d7ffdeb7b6aada",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 8705,
+    "output_tokens": 1712,
+    "cost_rmb": "0.02508488"
+  },
+  {
+    "request_id": "5bf83a51a4c84cd2adc3e2d48f3cb154",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 5222,
+    "output_tokens": 12088,
+    "cost_rmb": "0.09937072"
+  },
+  {
+    "request_id": "a9cf5fe1b09b4ab2a0e0a81c4460d7fb",
+    "model": "deepseek-flash",
+    "status": "settled",
+    "input_tokens": 5229,
+    "output_tokens": 4785,
+    "cost_rmb": "0.03970632"
+  }
+]

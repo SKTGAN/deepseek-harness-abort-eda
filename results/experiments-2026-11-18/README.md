@@ -24,7 +24,7 @@
 | [dual-arms-contract-claude](dual-arms-contract-claude/README.md) | 双卡机早期尝试，部分只发生了模型调用 | 0 | — | 0 / 0 |
 | [dual-arms-low-ours](dual-arms-low-ours/README.md) | 双卡机早期尝试，部分只发生了模型调用 | 5 | 0/9 组有数据 → 0/9 组有数据 → 0/9 组有数据 → 0/9 组有数据 → 0/9 组有数据 | 0 / 0 |
 | [dual-arms-low-claude](dual-arms-low-claude/README.md) | 双卡机早期尝试，部分只发生了模型调用 | 1 | 0/9 组有数据 | 0 / 0 |
-| [27528-claude-formal-2r](27528-claude-formal-2r/README.md) | 双轮正式训练，仅汇报值 | 0 | — | 0 / 0 |
+| [27528-claude-formal-2r](27528-claude-formal-2r/README.md) | 双轮正式训练 | 2 | 1.79 → -0.22 | 5 / 5 |
 
 ## 数据口径
 
