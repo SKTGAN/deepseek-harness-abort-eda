@@ -1,0 +1,569 @@
+{
+  "snapshot": "2026-11-18T22:39:46+08:00",
+  "rounds": [
+    {
+      "round": 1,
+      "request_id": "e-a79c198731e0300e9b5f3bcb6794eff410524ff71426df335b95ff5212cf",
+      "candidate_id": "ebbb7303ecab06df43dc1de37f8dcc733d4ae6837e1e12df2f7a4f6de5cabfe9",
+      "status": "succeeded",
+      "official_mean": 5.4730994120239655,
+      "cells": [
+        {
+          "case": "ariane133-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 50.73770172924047,
+          "raw_score": 50.73770172924047,
+          "wns_ns": -0.46473759489492794,
+          "tns_ns": -22.69812846368777
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -14.126843390256285,
+          "raw_score": -14.126843390256285,
+          "wns_ns": -0.6759770712293578,
+          "tns_ns": -101.27303371447661
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -56.57287594862086,
+          "raw_score": -56.57287594862086,
+          "wns_ns": -0.759961892703825,
+          "tns_ns": -159.28229852587913
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -20.823599877503156,
+          "raw_score": -20.823599877503156,
+          "wns_ns": -8.392474508445966,
+          "tns_ns": -9059.339646875793
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -29.972605953397096,
+          "raw_score": -29.972605953397096,
+          "wns_ns": -7.841612026113778,
+          "tns_ns": -10349.946316496395
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -14.454241483743441,
+          "raw_score": -14.454241483743441,
+          "wns_ns": -7.870566643414895,
+          "tns_ns": -8622.276498609612
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 28.717505032431024,
+          "raw_score": 28.717505032431024,
+          "wns_ns": -0.9933631975933916,
+          "tns_ns": -324.34935300086073
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 49.92933618986978,
+          "raw_score": 49.92933618986978,
+          "wns_ns": -0.7280568576313236,
+          "tns_ns": -211.7487329856929
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 55.82351841019526,
+          "raw_score": 55.82351841019526,
+          "wns_ns": -0.639466275808939,
+          "tns_ns": -188.35428327940795
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "request_id": "e-69980d1469099a4b2386cf6111deb41fa0e4644f0a7cecd78cc6eb32dec5",
+      "candidate_id": "203e2676d95aed3bcb076441c9947a07c3e70bbe0c0cad0a8e6f0d4ca51c7b1b",
+      "status": "succeeded",
+      "official_mean": 23.419768482456654,
+      "cells": [
+        {
+          "case": "ariane133-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 50.73770172924047,
+          "raw_score": 50.73770172924047,
+          "wns_ns": -0.46473759489492794,
+          "tns_ns": -22.69812846368777
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -1.5077603893893712,
+          "raw_score": -1.5077603893893712,
+          "wns_ns": -0.511323442504157,
+          "tns_ns": -101.00025635050363
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 82.90347288189028,
+          "raw_score": 82.90347288189028,
+          "wns_ns": -0.21841862270390605,
+          "tns_ns": -0.9353931227676884
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -10.219668292357586,
+          "raw_score": -10.219668292357586,
+          "wns_ns": -8.159028350544936,
+          "tns_ns": -8007.85369302932
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -51.953553194015214,
+          "raw_score": -51.953553194015214,
+          "wns_ns": -7.830465386631293,
+          "tns_ns": -12781.878829145442
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -9.625302843677682,
+          "raw_score": -9.625302843677682,
+          "wns_ns": -8.205838907300704,
+          "tns_ns": -7918.391244159256
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 45.639046933614715,
+          "raw_score": 45.639046933614715,
+          "wns_ns": -0.6311568113461243,
+          "tns_ns": -314.4564946327932
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 49.92933618986978,
+          "raw_score": 49.92933618986978,
+          "wns_ns": -0.7280568576313236,
+          "tns_ns": -211.7487329856929
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 54.87464332693446,
+          "raw_score": 54.87464332693446,
+          "wns_ns": -0.6872722585567389,
+          "tns_ns": -174.31168468688213
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "request_id": "e-eabfedb9fa8df4c0ce2ea2963026ca34a0de2ccca58674046f65ba3dc2f1",
+      "candidate_id": "7b2b7f4fc3cf05ce63fb33e044e4551f7842955c5e6d25de18f63280f83a9b2d",
+      "status": "succeeded",
+      "official_mean": 23.387910687561295,
+      "cells": [
+        {
+          "case": "ariane133-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 34.791617047837654,
+          "raw_score": 34.791617047837654,
+          "wns_ns": -0.3753171213381652,
+          "tns_ns": -59.19033253289952
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 88.43598716423465,
+          "raw_score": 88.43598716423465,
+          "wns_ns": -0.14822321567448438,
+          "tns_ns": -0.5736589143861482
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 55.25273253193461,
+          "raw_score": 55.25273253193461,
+          "wns_ns": -0.5222893376731212,
+          "tns_ns": -8.448960881179598
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -35.19564292195458,
+          "raw_score": -35.19564292195458,
+          "wns_ns": -7.8997015609403105,
+          "tns_ns": -10896.859147444173
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -27.875944143706544,
+          "raw_score": -27.875944143706544,
+          "wns_ns": -7.830399661426377,
+          "tns_ns": -10124.231553005546
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -25.597817664274753,
+          "raw_score": -25.597817664274753,
+          "wns_ns": -8.278652664385454,
+          "tns_ns": -9644.324836611248
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 30.50088155940675,
+          "raw_score": 30.50088155940675,
+          "wns_ns": -0.9417049628857983,
+          "tns_ns": -330.4659608386581
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 37.093915146458514,
+          "raw_score": 37.093915146458514,
+          "wns_ns": -0.8061449513883284,
+          "tns_ns": -323.6574264652086
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 53.08546746811537,
+          "raw_score": 53.08546746811537,
+          "wns_ns": -0.6084195541810501,
+          "tns_ns": -237.55311634615822
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "request_id": "e-134b97c56b7377990b67e0082cefce5a28760e96c755d30f63bf6bb72b04",
+      "candidate_id": "28ff7be4a61e14eeced2663d68fb9a712d05028f7ddcbc840d1cf367485209fe",
+      "status": "succeeded",
+      "official_mean": 15.607479515808338,
+      "cells": [
+        {
+          "case": "ariane133-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 50.73770172924047,
+          "raw_score": 50.73770172924047,
+          "wns_ns": -0.46473759489492794,
+          "tns_ns": -22.69812846368777
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 17.25862837183072,
+          "raw_score": 17.25862837183072,
+          "wns_ns": -0.49484862053119955,
+          "tns_ns": -72.84297460287044
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 16.80022217980018,
+          "raw_score": 16.80022217980018,
+          "wns_ns": -0.5978999686806076,
+          "tns_ns": -61.057855610828625
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -10.219668292357586,
+          "raw_score": -10.219668292357586,
+          "wns_ns": -8.159028350544936,
+          "tns_ns": -8007.85369302932
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -51.953553194015214,
+          "raw_score": -51.953553194015214,
+          "wns_ns": -7.830465386631293,
+          "tns_ns": -12781.878829145442
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -9.625302843677682,
+          "raw_score": -9.625302843677682,
+          "wns_ns": -8.205838907300704,
+          "tns_ns": -7918.391244159256
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 41.85131122552866,
+          "raw_score": 41.85131122552866,
+          "wns_ns": -0.8309637657611428,
+          "tns_ns": -253.6365642637628
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 30.713863972214696,
+          "raw_score": 30.713863972214696,
+          "wns_ns": -0.8843630522651936,
+          "tns_ns": -358.3641431703685
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 54.90411249371078,
+          "raw_score": 54.90411249371078,
+          "wns_ns": -0.6783798159672058,
+          "tns_ns": -178.6805989298116
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "request_id": "e-6502f4773af250178bbca3bb27aa8a8de2e0f1f7e2950f042edd1b92cac8",
+      "candidate_id": "9dac911dd21d088b013179c2902908eccf4876c5d315b2d3fc564a2f578a3d85",
+      "status": "succeeded",
+      "official_mean": 2.793939125771988,
+      "cells": [
+        {
+          "case": "ariane133-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -100,
+          "raw_score": -111.58186476283521,
+          "wns_ns": -0.6790701526634417,
+          "tns_ns": -257.51550243310936
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 84.5988756104495,
+          "raw_score": 84.5988756104495,
+          "wns_ns": -0.19592683585651877,
+          "tns_ns": -0.9437273452046524
+        },
+        {
+          "case": "ariane133-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 60.861767343871406,
+          "raw_score": 60.861767343871406,
+          "wns_ns": -0.442098814514923,
+          "tns_ns": -9.178762898432687
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -15.503218037496646,
+          "raw_score": -15.503218037496646,
+          "wns_ns": -8.004558131778813,
+          "tns_ns": -8669.774860753048
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "penalized",
+          "valid": false,
+          "score": -100,
+          "raw_score": null,
+          "wns_ns": null,
+          "tns_ns": null
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -19.97978452055021,
+          "raw_score": -19.97978452055021,
+          "wns_ns": -7.928927960845542,
+          "tns_ns": -9202.441366289342
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 45.58786236519784,
+          "raw_score": 45.58786236519784,
+          "wns_ns": -0.6185068188234767,
+          "tns_ns": -321.78400943511963
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 44.600421232961104,
+          "raw_score": 44.600421232961104,
+          "wns_ns": -0.8074090513599178,
+          "tns_ns": -233.2936967419061
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 24.979528137514894,
+          "raw_score": 24.979528137514894,
+          "wns_ns": -0.6952782990583422,
+          "tns_ns": -527.2675174602005
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "request_id": "e-0784d5cb7aed20f8c8edbc09a90d31ead281c6116df68f5324fc0e81f00e",
+      "candidate_id": "4d8e994feabd228f3b928557ce35254540288bfbb85f56defcfc8a24524034c4",
+      "status": "accepted",
+      "official_mean": null,
+      "cells": [
+        {
+          "case": "bp-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": -20.823599877503156,
+          "raw_score": -20.823599877503156,
+          "wns_ns": -8.392474508445966,
+          "tns_ns": -9059.339646875793
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": -29.972605953397096,
+          "raw_score": -29.972605953397096,
+          "wns_ns": -7.841612026113778,
+          "tns_ns": -10349.946316496395
+        },
+        {
+          "case": "bp-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": -14.454241483743441,
+          "raw_score": -14.454241483743441,
+          "wns_ns": -7.870566643414895,
+          "tns_ns": -8622.276498609612
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1001",
+          "status": "succeeded",
+          "valid": true,
+          "score": 28.717505032431024,
+          "raw_score": 28.717505032431024,
+          "wns_ns": -0.9933631975933916,
+          "tns_ns": -324.34935300086073
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1002",
+          "status": "succeeded",
+          "valid": true,
+          "score": 49.92933618986978,
+          "raw_score": 49.92933618986978,
+          "wns_ns": -0.7280568576313236,
+          "tns_ns": -211.7487329856929
+        },
+        {
+          "case": "bp_fe-ng45",
+          "seed": "1003",
+          "status": "succeeded",
+          "valid": true,
+          "score": 55.82351841019526,
+          "raw_score": 55.82351841019526,
+          "wns_ns": -0.639466275808939,
+          "tns_ns": -188.35428327940795
+        }
+      ]
+    }
+  ]
+}
