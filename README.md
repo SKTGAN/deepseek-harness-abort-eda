@@ -1,5 +1,7 @@
 # 赛题 2 · 3D 芯片网表切分交接
 
+**11 月 20 日最终结果。** [11 月 20 日最终版及选版对照](results/final-2026-11-20/README.md)汇总十轮正式训练、六组公开验证、所选算法和逐组计分，可与 Claude 原版及队友的固定算法实验对应核对。
+
 **11 月 19 日 13 时更新。** 32.6794 分的正式候选已在租用机进入六组公开验证。租用机继续备用版独立十轮，双卡机同一官方队列运行两套独立 Harness。最后改进的版本已通过 64 项容器测试，正式首条请求与声明的 189 个计数单位逐字相符。[最终版源码、专家段和历史回放](https://github.com/fqs-to/deepseek-harness-abort-eda/blob/e1b808cace65e43a3fdcf556fab2aa46c8e6c527/docs/runbook.md)
 
 **11 月 19 日更新。** [十轮 Harness 的回放、修订与复现实验](https://github.com/fqs-to/deepseek-harness-abort-eda/blob/b8d087ef16004c291eb31b7740c714ad43f35460/docs/runbook.md) 包含 28 轮正式训练的筛选对照、两份同分候选的逐实例检查，以及恢复十次独立提交的测试。修订版本的物理成绩由独立正式运行检验。
